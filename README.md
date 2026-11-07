@@ -108,7 +108,7 @@ processhunter\
 
 ## Como Executar
 
-A pasta `publish\` é gerada localmente e não faz parte do repositório. Compile o projeto (veja abaixo) ou baixe os executáveis na página de Releases.
+A pasta `publish\` é gerada localmente e não faz parte do repositório. Compile o projeto (veja abaixo) ou baixe os executáveis na aba [Releases](https://github.com/Henriquehoff4/processhunter/releases).
 
 ### Versão Portátil (Sem Instalação)
 1. Navegue até `publish\portable\` (ou `publish\standalone\`).
