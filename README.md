@@ -4,6 +4,12 @@ ProcessHunter é um gerenciador de processos e monitor de sistema profissional p
 
 ---
 
+## Capturas de tela
+
+![Visão geral: CPU, RAM, GPU, núcleos, disco e rede em tempo real](docs/screenshots/visao-geral.png)
+
+---
+
 ## Destaques e Funcionalidades
 
 ### 1. Monitoramento em Tempo Real de Altíssimo Desempenho
